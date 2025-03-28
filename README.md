@@ -10,3 +10,6 @@ Build a pipeline to extract the data from the SQL on-premise data
 Loads the data into Azure
 Peforms the necessary transformations that make the data more query friendly
 Pipeline should be scheduled to run automatically every day.
+
+### Project Overview:
+![Project Architecture](https://github.com/user-attachments/assets/b955ce86-8694-4704-98e3-4ae73fa48bc2)
